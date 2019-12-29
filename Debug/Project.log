@@ -1,0 +1,6 @@
+﻿  Assembling main.asm...
+main.asm(840): warning A6001: no return from procedure
+main.asm(847): warning A6001: no return from procedure
+main.asm(691): warning A6004: procedure argument or local not referenced : index
+main.asm(989): warning A6004: procedure argument or local not referenced : player_name_param
+  Project.vcxproj -> C:\Users\Rolla\Desktop\Sodoku_Game\Irvine\Project_Template\Debug\Project.exe
