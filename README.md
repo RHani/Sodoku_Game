@@ -1,6 +1,6 @@
 # Sodoku_Game
-Sudoku is a popular Japanese puzzle game based on the logical placement of numbers. Being a game of logic, Sudoku doesn’t require any calculation nor special math skills
-The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 sub-grids that compose the grid contains all of the digits from 1 to 9. 
+Sudoku is a popular Japanese puzzle game based on the logical placement of numbers. Being a game of logic, Sudoku doesn’t require any calculation nor special math skills.
+ The project is written in assembly language and the objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 sub-grids that compose the grid contains all of the digits from 1 to 9. 
 A well-constructed Sudoku puzzle has a unique solution and can be solved by logic, although it may be necessary to employ "guess and test" methods in order to eliminate options. 
 Details 
  
