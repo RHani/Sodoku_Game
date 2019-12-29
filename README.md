@@ -11,8 +11,10 @@ from the file and display it on the screen.
 At the beginning of the game, there should be two options: 
 1. To start a new game. 2. To continue the last previously played game (which should be saved somewhere). 
 
-Once a board is loaded and the game starts, then at each step in the game, there should be 4 options available: 
+Once a board is loaded and the game starts, then at each step in the game, there are 4 options available: 
 1. An option to print the finished board. 
 2. An option to clear the board to the initial Sudoku board. 
 3. An option to edit a single cell in the board. (ie. put a value) 
 4. Save and exit. 
+
+
